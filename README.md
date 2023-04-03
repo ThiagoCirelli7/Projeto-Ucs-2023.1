@@ -1,7 +1,5 @@
 # README.md
 
-CHANGES
-
 Caio de Jesus Santos RA-819148380
 
 João Flávio Miyasato Sanches RA-821146892 
