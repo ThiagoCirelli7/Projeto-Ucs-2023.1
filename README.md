@@ -11,4 +11,6 @@ Thiago Sousa Mazili RA-822141922
 
 Thiago Vieiro Cirelli Lopes RA-822132178
 
-Vinicius Eduardo Ferreira RA - 81911506 
+Vinicius Eduardo Ferreira RA - 81911506
+
+-------------
