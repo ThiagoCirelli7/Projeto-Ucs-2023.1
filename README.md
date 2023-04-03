@@ -1,5 +1,4 @@
 # README-md
-GRUPO
 
 Caio de Jesus Santos RA-819148380
 
