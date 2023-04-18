@@ -1,10 +1,10 @@
 # README.md
 
-Caio de Jesus Santos RA-819148380
+- Caio de Jesus Santos RA-819148380
 
-João Flávio Miyasato Sanches RA-821146892 
+- João Flávio Miyasato Sanches RA-821146892 
 
-Lucas Nunes Garcez RA-822137433
+- Lucas Nunes Garcez RA-822137433
 
 - Matheus Aguiar Matos RA-822136827
 
