@@ -26,4 +26,3 @@ app.get('/add-lyrics', async (req, res) => {
 app.listen(3000, () => {
   console.log(`Servidor executando na porta 3000`);
 });
- index.js
