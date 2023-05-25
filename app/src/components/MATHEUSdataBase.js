@@ -7,10 +7,8 @@ var con = mysql.createConnection({
   database: "projeto_ucs_20231"
 });
 
-async function cadastrarUsuario(nome, senha, usuario){
-   usuarioExiste = false; 
-   //verifica se o user já está cadastrado
-   
+export async function cadastrarUsuario(nome, senha, usuario){
+    alert("ENTRADA NO MÉTODO CADASTRAR USER");
     con.connect(function(err) {
     if (err) throw err;
     console.log("Connected!");
@@ -18,7 +16,7 @@ async function cadastrarUsuario(nome, senha, usuario){
     "','"+usuario+"')";
     con.query(sql, function (err, result) {
         if (err) throw err;
-        console.log("DADOS GRAVADOS COM SUCESSO!");
+        alert("CONTA CRIADA COM SUCESSO!");
     });
     });
 }

@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./components/style.css">
   <title>Tela Login</title>
+  <script type="text/javascript" src="./components/MATHEUSdataBase.js">  
+  </script>
 </head>
 
 <body>
@@ -56,11 +58,13 @@
     </div>
       <div class="form">
         
-        <input class="form-field" type="text" placeholder="Nome">
-        <input class="form-field" type="text" placeholder="Email">
-        <input class="form-field" type="password" placeholder="Senha">
+        <input id="nomeUser" class="form-field" type="text" placeholder="Nome">
+        <input id="emailUser" class="form-field" type="text" placeholder="Email">
+        <input id="senhaUser" class="form-field" type="password" placeholder="Senha">
         <div class="actions">
-          <button class="form-btn">
+          <button id="cadastrarUser" class="form-btn"
+            onclick="cadastrarUsuario(document.getElementById(nomeUser),
+            document.getElementById(emailUser),document.getElementById(senhaUser))">
             criar conta
           </button>
         </div>

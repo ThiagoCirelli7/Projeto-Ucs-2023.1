@@ -1,11 +1,12 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import './'
 
 export default () => {
  return (
-
+     
     <div>
-        meu app
+      meu app
     </div>
     
     /*
