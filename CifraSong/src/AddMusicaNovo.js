@@ -62,7 +62,7 @@ function AddMusica() {
         <br></br>
         <br></br>
         <br></br>
-        <div className="container mt-5">
+        <div className="container mt-5" >
           <div className="row justify-content-between">
             <form className="col-sm-6">
               <div className="mb-3">
