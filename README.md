@@ -1,6 +1,6 @@
 # README.md
 
-![WhatsApp Image 2023-05-29 at 22 44 44](https://github.com/ThiagoCirelli7/Projeto-Ucs-2023.1/assets/69373402/db76555a-417d-411d-9991-ae16fe21c671)
+![WhatsApp Image 2023-05-30 at 17 37 22](https://github.com/ThiagoCirelli7/Projeto-Ucs-2023.1/assets/69373402/7d5cdc4f-fb0b-4dc1-8581-53e224ce067d)
 
 GRUPO:
 
