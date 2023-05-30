@@ -15,4 +15,9 @@
 - Vinicius Eduardo Ferreira RA - 81911506
 
 
+VÍDEO DO PROJETO:
+
+https://youtu.be/RzC___PxpGU
+
+
 
